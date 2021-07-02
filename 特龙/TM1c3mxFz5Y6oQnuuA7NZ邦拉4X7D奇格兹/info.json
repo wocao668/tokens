@@ -1,0 +1,11 @@
+{
+ "name": "MODA Token",
+ "website": "http://modatoken.com",
+ "description": "MODA是一个去中心化区块链生态自治社区，这里拥有一群有梦想、有信念、有追求的区块链忠实粉丝和技术爱好者。通过对专业认知的传递和提升MODA，为社区提供更丰富、更优质的区块链金融落地应用、资讯和技术支持，以便每个社区成员都可以深度参与并创造区块链金融应用落地剖析，引领区块链行业趋势发展，为促进区块链行业发展贡献力量",
+ "explorer": "https://tronscan.io/#/token20/TM1c3mxFz5Y6oQnuuA7NZbonRa4X7Dchgz",
+ "type": "TRC20",
+ "symbol": "MODA",
+ "decimals": 6,
+ "status": "active",
+ "id": "TM1c3mxFz5Y6oQnuuA7NZbonRa4X7Dchgz"
+}
